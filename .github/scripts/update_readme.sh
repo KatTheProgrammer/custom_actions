@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Inputs
 FREQ_RESULT=$1
